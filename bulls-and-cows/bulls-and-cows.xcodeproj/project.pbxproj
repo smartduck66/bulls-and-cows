@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		EB511D991FE1C0AA005A7F0F /* bulls-and-cows */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "bulls-and-cows"; sourceTree = BUILT_PRODUCTS_DIR; };
 		EB511D9C1FE1C0AA005A7F0F /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		EBB308731FE1C12F0012FCDE /* std_lib_facilities.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = std_lib_facilities.h; path = ../../../std_lib_facilities.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				EB511D9C1FE1C0AA005A7F0F /* main.cpp */,
+				EBB308731FE1C12F0012FCDE /* std_lib_facilities.h */,
 			);
 			path = "bulls-and-cows";
 			sourceTree = "<group>";
@@ -250,6 +252,7 @@
 				EB511DA21FE1C0AA005A7F0F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
